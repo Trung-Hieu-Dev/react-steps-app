@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Summary
+This project is for reviewing: state, events and form (Interactive Component). All the commits were named according to the React topics.
+
 ## Available Scripts
 
 In the project directory, you can run:
